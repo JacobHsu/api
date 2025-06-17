@@ -1,6 +1,7 @@
 # API
 
-[News API](https://newsapi.org/) – Search News and Blog Articles on the Web
+[News API](https://newsapi.org/) – Search News and Blog Articles on the Web  
+[Serper API](https://serper.dev/) –  Google-Search Scraping API 
 
 
 ##　Oepn AI

@@ -3,7 +3,9 @@
 [News API](https://newsapi.org/) – Search News and Blog Articles on the Web  
 [Serper API](https://serper.dev/) –  Google-Search Scraping API  
 
-[Apifox](https://www.apifox.cn/)  = Postman + Swagger + Mock + JMeter
+[Apifox](https://www.apifox.cn/)  = Postman + Swagger + Mock + JMeter  
+
+[CoinGecko](https://docs.coingecko.com/reference/introduction) API  that offers comprehensive market data
 
 
 ##　Oepn AI

@@ -20,6 +20,10 @@ Error code: 429 - {'error': {'message': 'You exceeded your current quota, please
 確認你有付款或試用額度 [https://platform.openai.com/account/billing/overview](https://platform.openai.com/account/billing/overview)
 
 
+## Crypto
+
+[CryptoCompare API](https://www.cryptocompare.com/coins/guides/how-to-use-our-api/)
+
 ## Alpaca
 
 [Alpaca](https://alpaca.markets/) - Developer-first API for Stock, Options, Crypto Trading  

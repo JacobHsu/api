@@ -19,6 +19,10 @@ Error code: 429 - {'error': {'message': 'You exceeded your current quota, please
 
 確認你有付款或試用額度 [https://platform.openai.com/account/billing/overview](https://platform.openai.com/account/billing/overview)
 
+## Screenshot
+
+[screenshot.fyi](https://www.screenshot.fyi/)  100 screenshots/month  
+[screenshotone](https://screenshotone.com/) 100 screenshots/month  
 
 ## Crypto
 

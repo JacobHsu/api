@@ -7,6 +7,8 @@
 
 [CoinGecko](https://docs.coingecko.com/reference/introduction) API  that offers comprehensive market data
 
+[JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Free Fake REST API  
+https://jsonplaceholder.typicode.com/users  
 
 ##　Oepn AI
 

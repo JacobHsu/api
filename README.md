@@ -1,5 +1,6 @@
 # API
 
+[Rapid API](https://rapidapi.com/search/Finance) – the world's largest API marketplace  
 [News API](https://newsapi.org/) – Search News and Blog Articles on the Web  
 [Serper API](https://serper.dev/) –  Google-Search Scraping API  
 

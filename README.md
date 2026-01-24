@@ -11,6 +11,9 @@
 [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Free Fake REST API  
 https://jsonplaceholder.typicode.com/users  
 
+
+[ScreenshotSnap](https://screenshotsnap.com/) 免費的網站截屏在線工具，提供 API，可以直接將截圖代碼插入網頁
+
 ##　Oepn AI
 
 

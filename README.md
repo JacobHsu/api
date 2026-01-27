@@ -12,6 +12,7 @@
 https://jsonplaceholder.typicode.com/users  
 
 
+[ScreenshotOne](https://screenshotone.com/) is the best screenshot rendering platform for developers.  
 [ScreenshotSnap](https://screenshotsnap.com/) 免費的網站截屏在線工具，提供 API，可以直接將截圖代碼插入網頁
 
 ##　Oepn AI

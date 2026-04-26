@@ -29,7 +29,8 @@ Error code: 429 - {'error': {'message': 'You exceeded your current quota, please
 ## Screenshot
 
 [screenshot.fyi](https://www.screenshot.fyi/)  100 screenshots/month  
-[screenshotone](https://screenshotone.com/) 100 screenshots/month  
+[screenshotone](https://screenshotone.com/) 100 screenshots/month   
+[microlink](https://microlink.io/screenshot) 50 requests per day  
 
 ## Crypto
 

@@ -34,7 +34,9 @@ Error code: 429 - {'error': {'message': 'You exceeded your current quota, please
 
 ## Crypto
 
-[CryptoCompare API](https://www.cryptocompare.com/coins/guides/how-to-use-our-api/)
+[CryptoCompare API](https://www.cryptocompare.com/coins/guides/how-to-use-our-api/)  
+[CoinLore](https://www.coinlore.com/cryptocurrency-data-api): Cryptocurrency Prices by Market Cap
+
 
 ## Alpaca
 
